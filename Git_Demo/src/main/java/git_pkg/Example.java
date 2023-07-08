@@ -27,11 +27,17 @@ public class Example
 		return c;
 		
 	}
+	
 public static void main(String[] args) {
 	Example e=new Example();
 	e.add();
 	e.sub(1, 2);
 	e.mul(3, 4);
 	e.div();
+	Sample s=new Sample();
+	s.add();
+	s.sub();
+	s.div();
+	s.mul();
 }
 }
