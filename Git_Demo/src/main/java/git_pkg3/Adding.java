@@ -7,6 +7,8 @@ public class Adding {
 		int c=a+b;
 		System.out.println(c);
 		System.out.println(a);
+		System.out.println(c);
+		System.out.println("Adding a+b=c");
 		
 		
 	}
