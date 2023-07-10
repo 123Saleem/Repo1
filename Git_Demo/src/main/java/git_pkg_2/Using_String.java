@@ -12,6 +12,9 @@ public class Using_String
 		case "c++":
 			System.out.println("Learn C++ Language");
 			break;
+		case "c#":
+			System.out.println("Learn C++ Language");
+			break;
 		case "Java":
 			System.out.println("Learn Java Language");
 			break;
