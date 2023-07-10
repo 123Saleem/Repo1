@@ -15,7 +15,8 @@ public class String_Version
 		case "Java":
 			System.out.println("Which Version have to using know");
 			int version=sc.nextInt();
-			switch(version){
+			switch(version)
+			{
 			case 8:
 				System.out.println("This is the old Vesrsion");
 				break;
