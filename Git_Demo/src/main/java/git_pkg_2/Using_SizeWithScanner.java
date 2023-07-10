@@ -19,6 +19,10 @@ public class Using_SizeWithScanner
 			size="Medium";
 			System.out.println("Size is "+size);
 			break;
+		case 22:
+			size="Medium";
+			System.out.println("Size is "+size);
+			break;
 		case 30:
 			size= "Large";
 			System.out.println("Size is "+size);
