@@ -8,7 +8,4 @@ public class Sample1
 		System.out.println("Hello");
 		System.out.println("hfakyf");
 	}
-
-
-
 }
