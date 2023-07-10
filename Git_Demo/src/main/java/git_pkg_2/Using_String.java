@@ -16,7 +16,6 @@ public class Using_String
 			System.out.println("Learn C++ Language");
 			break;
 
-		case "Java":
 			System.out.println("Learn Java Language");
 			break;
 		default:
