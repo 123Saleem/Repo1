@@ -2,16 +2,16 @@ package git_pkg3;
 
 import java.util.Scanner;
 
-public class Class1 {
+public class Addtwonumbers {
+
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
-		int a,b,c;
-		a=sc.nextInt();
-		b=sc.nextInt();
-		c=a+b;
+		System.out.println("enter a, b values");
+		int a=sc.nextInt();
+		int b=sc.nextInt();
+		int c=a+b;
 		System.out.println(c);
-
-		System.out.println("Adding the data");
-
+		
 	}
+
 }
