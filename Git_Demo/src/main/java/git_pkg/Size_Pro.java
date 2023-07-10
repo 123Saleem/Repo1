@@ -20,6 +20,10 @@ public class Size_Pro
 			size="large";
 			System.out.println("Size  "+size);
 			break;
+		case 40:
+			size="Verylarge";
+			System.out.println("Size  "+size);
+			break;
 		default:
 			System.out.println("Size is Not there");
 			break;
