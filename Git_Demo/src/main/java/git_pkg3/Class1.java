@@ -10,6 +10,8 @@ public class Class1 {
 		b=sc.nextInt();
 		c=a+b;
 		System.out.println(c);
+
 		System.out.println("Adding the data");
+
 	}
 }
