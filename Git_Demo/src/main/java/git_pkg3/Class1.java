@@ -12,10 +12,10 @@ public class Class1 {
 		System.out.println(c);
 
 		System.out.println("Adding the data");
-<<<<<<< Updated upstream
 
-=======
+
+
 		System.out.println("Substraction");
->>>>>>> Stashed changes
+
 	}
 }
