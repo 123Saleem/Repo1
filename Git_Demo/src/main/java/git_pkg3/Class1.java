@@ -13,5 +13,9 @@ public class Class1 {
 
 		System.out.println("Adding the data");
 
+
+
+		System.out.println("Substraction");
+
 	}
 }
